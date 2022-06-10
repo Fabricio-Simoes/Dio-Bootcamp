@@ -1,2 +1,8 @@
+- VSCode
 https://code.visualstudio.com/
+- Git Cheat
 https://education.github.com/git-cheat-sheet-education.pdf
+- W3schools
+https://www.w3schools.com/
+- Portugol
+https://portugol-webstudio.cubos.io/ide
