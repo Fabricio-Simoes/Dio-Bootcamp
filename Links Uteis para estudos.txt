@@ -6,3 +6,5 @@ https://education.github.com/git-cheat-sheet-education.pdf
 https://www.w3schools.com/
 - Portugol
 https://portugol-webstudio.cubos.io/ide
+- Minigame para treinar CSS3
+http://www.flexboxdefense.com/
