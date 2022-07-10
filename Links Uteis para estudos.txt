@@ -8,3 +8,13 @@ https://www.w3schools.com/
 https://portugol-webstudio.cubos.io/ide
 - Minigame para treinar CSS3
 http://www.flexboxdefense.com/
+- Minigame para treinar flexbox
+https://mastery.games/flexboxzombies/
+- Angular material
+https://material.angular.io/
+- Angular Docs
+https://angular.io/docs
+- Flexbox
+https://rupl.github.io/unfold/
+- Checar Compatibilidade
+https://caniuse.com/?search=media
